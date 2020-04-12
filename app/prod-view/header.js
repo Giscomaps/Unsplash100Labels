@@ -5,7 +5,7 @@ function Header() {
         React.createElement(
             'h1',
             null,
-            'Unsplash 100 label classifier'
+            'Multilabel classifier'
         ),
         React.createElement(
             'span',
