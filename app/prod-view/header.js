@@ -13,7 +13,7 @@ function Header() {
             React.createElement(
                 'a',
                 { href: 'https://twitter.com/ramgendeploy', target: '_blank' },
-                '@ramgendeploy'
+                '@jballes@unal.edu.co'
             )
         )
     );
