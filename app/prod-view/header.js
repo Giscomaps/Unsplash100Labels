@@ -12,7 +12,7 @@ function Header() {
             { className: 'ramaTwitter' },
             React.createElement(
                 'a',
-                { href: 'https://twitter.com/ramgendeploy', target: '_blank' },
+                { href: 'www.unal.edu.co', target: '_blank' },
                 'jballes@unal.edu.co'
             )
         )
